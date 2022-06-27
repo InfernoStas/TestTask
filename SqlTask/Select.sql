@@ -1,4 +1,4 @@
-SELECT Name
+SELECT Name as Customers
 FROM Customers c
 WHERE NOT EXISTS(
         SELECT * 
