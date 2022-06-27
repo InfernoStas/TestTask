@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stani\\source\\repos\\CarTask\\CarTask\\CarTask.csproj",
+      "projectUniqueName": "C:\\Users\\stani\\Documents\\GitHub\\TestTask\\CarTask\\CarTask\\CarTask.csproj",
       "projectName": "CarTask",
-      "projectPath": "C:\\Users\\stani\\source\\repos\\CarTask\\CarTask\\CarTask.csproj",
+      "projectPath": "C:\\Users\\stani\\Documents\\GitHub\\TestTask\\CarTask\\CarTask\\CarTask.csproj",
       "packagesPath": "C:\\Users\\stani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stani\\source\\repos\\CarTask\\CarTask\\obj\\",
+      "outputPath": "C:\\Users\\stani\\Documents\\GitHub\\TestTask\\CarTask\\CarTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stani\\AppData\\Roaming\\NuGet\\NuGet.Config",

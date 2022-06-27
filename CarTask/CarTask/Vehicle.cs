@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿
 namespace CarTask
 {
     class Vehicle
@@ -53,18 +50,18 @@ namespace CarTask
 
         public double GetDistanceWithFullTank()
         {
-            return this.FullTankValue * 100 / AverageFuelConsumption;
+            return FullTankValue * 100 / AverageFuelConsumption;
         }
 
         public double GetDistanceWithCurrentTank()
         {
-            return this.TankValue * 100 / AverageFuelConsumption;
+            return TankValue * 100 / AverageFuelConsumption;
         }
 
         public double GetCurrentDistanceTime()
         {
 
-            return this.GetDistanceWithCurrentTank() / Speed;
+            return GetDistanceWithCurrentTank() / Speed;
         }
 
         public double GetDistanceTime(double distance)

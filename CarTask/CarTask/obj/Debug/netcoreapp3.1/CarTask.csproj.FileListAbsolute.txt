@@ -12,3 +12,17 @@ C:\Users\stani\source\repos\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.cspr
 C:\Users\stani\source\repos\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.dll
 C:\Users\stani\source\repos\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.pdb
 C:\Users\stani\source\repos\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.genruntimeconfig.cache
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\bin\Debug\netcoreapp3.1\CarTask.exe
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\bin\Debug\netcoreapp3.1\CarTask.deps.json
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\bin\Debug\netcoreapp3.1\CarTask.runtimeconfig.json
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\bin\Debug\netcoreapp3.1\CarTask.runtimeconfig.dev.json
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\bin\Debug\netcoreapp3.1\CarTask.dll
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\bin\Debug\netcoreapp3.1\CarTask.pdb
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.csproj.AssemblyReference.cache
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.AssemblyInfoInputs.cache
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.AssemblyInfo.cs
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.csproj.CoreCompileInputs.cache
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.dll
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.pdb
+C:\Users\stani\Documents\GitHub\TestTask\CarTask\CarTask\obj\Debug\netcoreapp3.1\CarTask.genruntimeconfig.cache

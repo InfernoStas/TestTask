@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CarTask
 {
@@ -50,12 +48,12 @@ namespace CarTask
 
         public new double GetDistanceWithFullTank()
         {
-            return (this.FullTankValue * 100 / this.AverageFuelConsumption) * (1 - LoadValue * loadFactor / 100.0);
+            return (FullTankValue * 100 / AverageFuelConsumption) * (1 - LoadValue * loadFactor / 100.0);
         }
 
         public new double GetDistanceWithCurrentTank()
         {
-            return (this.TankValue * 100 / this.AverageFuelConsumption) * (1 - LoadValue * loadFactor / 100.0);
+            return (TankValue * 100 / AverageFuelConsumption) * (1 - LoadValue * loadFactor / 100.0);
         }
     }
 }
