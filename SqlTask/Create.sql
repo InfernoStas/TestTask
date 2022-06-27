@@ -1,0 +1,28 @@
+CREATE TABLE Customers
+( "Id" number(10) NOT NULL,
+  Name varchar2(60) NOT NULL,
+  CONSTRAINT customer_pk PRIMARY KEY ("Id")
+);
+
+CREATE TABLE Orders
+( "Id" number(10) NOT NULL,
+  CustomerId number(10) NOT NULL,
+  CONSTRAINT order_pk PRIMARY KEY ("Id"),
+  CONSTRAINT fk_customers
+    FOREIGN KEY (CustomerId)
+    REFERENCES Customers("Id")
+);
+
+CREATE SEQUENCE Customers_SEQ
+  MINVALUE 1
+  NOMAXVALUE
+  START WITH 1
+  INCREMENT BY 1
+  NOCYCLE;
+CREATE SEQUENCE Orders_SEQ
+  MINVALUE 1
+  NOMAXVALUE
+  START WITH 1
+  INCREMENT BY 1
+  NOCYCLE;
+  
