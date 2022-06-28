@@ -33,5 +33,11 @@ namespace CarTask
         {
             return (TankValue * 100 / AverageFuelConsumption) * (1 - PassengersNumber * 6 / 100.0);
         }
+
+        public new double GetCurrentDistanceTime()
+        {
+
+            return GetDistanceWithCurrentTank() / Speed;
+        }
     }
 }

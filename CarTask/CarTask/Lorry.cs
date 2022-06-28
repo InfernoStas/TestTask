@@ -25,7 +25,7 @@ namespace CarTask
             }
         }
 
-        //200 kg make distance decrease by 10% -> 1 kg - 0.02%
+        //200 kg make distance decrease by 4% -> 1 kg - 0.02%
         private const double loadFactor = 0.02;
         //Value of current load (kg)
         private int loadValue;
@@ -55,5 +55,12 @@ namespace CarTask
         {
             return (TankValue * 100 / AverageFuelConsumption) * (1 - LoadValue * loadFactor / 100.0);
         }
+
+        public new double GetCurrentDistanceTime()
+        {
+
+            return GetDistanceWithCurrentTank() / Speed;
+        }
+
     }
 }
